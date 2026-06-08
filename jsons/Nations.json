@@ -32,7 +32,7 @@
 		"innerColor": [246, 216, 1],
 		"favoredReligion": "Eastern Orthodoxy",
 		"uniqueName": "The Pentarchy and 7 Ecumenical Councils.",
-		"uniqueText": ".",
+		"uniqueText": "how will it be.",
 		"uniques": ["May choose [5] additional belief(s) of any type when [founding] a religion", "May choose [7] additional belief(s) of any type when [enhancing] a religion", "<in [Holy] cities> Religion naturally spreads to cities [30] tiles away <after founding a Religion>"],
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
